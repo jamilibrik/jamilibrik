@@ -24,12 +24,12 @@ Currently, I’m gaining hands-on experience through data analytics internships,
 - Outcome: Delivered insights on customer behavior and conversion trends.  
 🔗 [View Project](https://github.com/jamilibrik/Master-Project-Globox-A-B-testing)  
 
-### 🏥 Health Data Analysis *(sample project – add your repo when ready)*  
+### 🏥 Health Data Analysis **  
 - Cleaned, visualized, and extracted insights from healthcare datasets.  
 - Tools: Python, Tableau, SQL  
 - Outcome: Identified patterns in patient outcomes and treatment efficiency.  
 
-### 📊 Business Analytics Dashboard *(sample project – add your repo when ready)*  
+### 📊 Business Analytics Dashboard **  
 - Built interactive dashboards in Tableau/Power BI to present sales and operations KPIs.  
 - Outcome: Provided decision-makers with actionable insights.  
 
@@ -48,7 +48,7 @@ Currently, I’m gaining hands-on experience through data analytics internships,
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jamilibrik)  
 - 📊 [GitHub](https://github.com/jamilibrik)  
-- ✉️ Email: *[your email here]*  
+    
 
 ---
 
